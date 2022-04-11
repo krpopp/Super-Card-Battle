@@ -268,9 +268,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2f814c126e7c24615837f005bee21ad2, type: 3}
   - {fileID: 21300000, guid: 1d43d0f3213c94cc88c3355797d46fe2, type: 3}
   - {fileID: 21300000, guid: 5e35a54f37602444db1d388248ebcc72, type: 3}
-  backSprite: {fileID: 21300000, guid: 3e44e11e30535425c8f6d80956446c9f, type: 3}
-  frontSprite: {fileID: 21300000, guid: e32b795f707cc4c7cbb931441ad610a1, type: 3}
-  backColor: {r: 0.4012374, g: 0, b: 0.6886792, a: 1}
   minusColor: {r: 1, g: 0, b: 0, a: 1}
   plusColor: {r: 0, g: 1, b: 0.07667947, a: 1}
 --- !u!4 &490915274
