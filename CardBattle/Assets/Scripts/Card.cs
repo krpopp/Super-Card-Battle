@@ -7,6 +7,7 @@ public class Card : CardBehavior
 
     public AudioClip flipSound;
     SpriteRenderer mySpriteRend;
+    Sprite newSprite;
 
     protected override void OnMouseDown()
     {
